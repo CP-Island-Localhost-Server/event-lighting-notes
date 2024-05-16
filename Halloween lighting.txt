@@ -1,6 +1,6 @@
 Town lighting values:
 
-Color code:#070024FF
+Color code: #070024FF
 Fog start: -65
 Fog end: 75
 Density: 0.9
@@ -10,18 +10,39 @@ Mt. Blizzard lighting values:
 Color code:
 Fog start: 
 Fog end: 
-Density: 
+Density: 0.9
 
 Beach lighting values:
 
 Color code:
 Fog start: 
 Fog end: 
-Density: 
+Density: 0.9
 
 Boardwalk lighting values:
 
 Color code:
 Fog start: 
 Fog end: 
-Density: 
+Density: 0.9
+
+Diving lighting values:
+
+Color code:
+Fog start: 
+Fog end: 
+Density: 0.9
+
+Herbert's base lighting values:
+
+Color code:
+Fog start: 
+Fog end: 
+Density: 0.9
+
+Mt. Summit lighting values:
+
+Color code:
+Fog start: 
+Fog end: 
+Density: 0.9
