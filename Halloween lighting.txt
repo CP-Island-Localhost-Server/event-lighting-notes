@@ -1,0 +1,27 @@
+Town lighting values:
+
+Color code:#070024FF
+Fog start: -65
+Fog end: 75
+Density: 0.9
+
+Mt. Blizzard lighting values:
+
+Color code:
+Fog start: 
+Fog end: 
+Density: 
+
+Beach lighting values:
+
+Color code:
+Fog start: 
+Fog end: 
+Density: 
+
+Boardwalk lighting values:
+
+Color code:
+Fog start: 
+Fog end: 
+Density: 
