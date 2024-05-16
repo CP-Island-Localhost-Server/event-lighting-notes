@@ -7,42 +7,42 @@ Density: 0.9
 
 Mt. Blizzard lighting values:
 
-Color code:
-Fog start: 
-Fog end: 
+Color code: #070024FF
+Fog start: -65
+Fog end: 100
 Density: 0.9
 
 Beach lighting values:
 
-Color code:
-Fog start: 
-Fog end: 
+Color code: #070024FF
+Fog start: -65
+Fog end: 100
 Density: 0.9
 
 Boardwalk lighting values:
 
-Color code:
-Fog start: 
-Fog end: 
+Color code: #070024FF
+Fog start: -65
+Fog end: 100
 Density: 0.9
 
 Diving lighting values:
 
-Color code:
-Fog start: 
-Fog end: 
+Color code: #070024FF
+Fog start: -65
+Fog end: 75
 Density: 0.9
 
 Herbert's base lighting values:
 
-Color code:
-Fog start: 
-Fog end: 
+Color code: #070024FF
+Fog start: -65
+Fog end: 75
 Density: 0.9
 
 Mt. Summit lighting values:
 
-Color code:
-Fog start: 
-Fog end: 
+Color code: #070024FF
+Fog start: -65
+Fog end: 75
 Density: 0.9
