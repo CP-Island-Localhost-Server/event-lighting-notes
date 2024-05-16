@@ -1,0 +1,48 @@
+Town lighting values:
+
+Color code: #8800BFFF
+Fog start: -65
+Fog end: 120
+Density: 0.9
+
+Mt. Blizzard lighting values:
+
+Color code: #8800BFFF
+Fog start: -30
+Fog end: 120
+Density: 0.9
+
+Beach lighting values:
+
+Color code: #8800BFFF
+Fog start: -30
+Fog end: 120
+Density: 0.9
+
+Boardwalk lighting values:
+
+Color code: #8800BFFF
+Fog start: -30
+Fog end: 120
+Density: 0.9
+
+Diving lighting values:
+
+Color code: #8800BFFF
+Fog start: -30
+Fog end: 120
+Density: 0.9
+
+Herbert's Base lighting values:
+
+Color code: #8800BFFF
+Fog start: -30
+Fog end: 120
+Density: 0.9
+
+Mt. Summit lighting values:
+
+Color code: #8800BFFF
+Fog start: -30
+Fog end: 120
+Density: 0.9
